@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at [bilendm.com](bilendm.com)
+- 👨‍💻 All of my projects are available at [bilendm.com](https://bilendm.com)
 
 - 📫 How to reach me **bilendmohammed@gmail.com**
 
