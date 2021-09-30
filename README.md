@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilendm" alt="bilendm" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bilendm" target="blank"><img src="https://img.shields.io/twitter/follow/bilendm?logo=twitter&style=for-the-badge" alt="bilendm" /></a> </p>
-
 - 🌱 I’m currently learning **Nodejs**
 
 - 👨‍💻 All of my projects are available at [bilendm.com](https://bilendm.com)
