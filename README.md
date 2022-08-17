@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Bilendm/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/Bilendm/Bilendm/blob/output/snake.svg" alt="Snake animation" />
 
 ###
